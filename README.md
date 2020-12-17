@@ -1,4 +1,4 @@
-# Budget Tracker 
+# Employee Directory 
   # https://github.com/Gkkrammes/Employee-Directory
   
   ## Link to video of functioning app
