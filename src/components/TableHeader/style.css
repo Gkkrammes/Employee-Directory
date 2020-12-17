@@ -1,0 +1,32 @@
+.tableheading {
+    width: 100%;
+    text-align: center;
+    font-size: 3vw;
+    color: rgb(67, 67, 196);
+    font-family: 'Dosis', sans-serif;
+}
+
+button {
+    padding:0.5em 3em;
+    border:0.16em solid #FFFFFF;
+    margin:0 0.3em 0.3em 0;
+    box-sizing: border-box;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-family:'Roboto',sans-serif;
+    font-weight:400;
+    color:#6c73db;
+    text-align:center;
+    transition: all 0.15s;
+}
+
+button:hover {
+    color:#DDDDDD;
+    border-color:#DDDDDD;
+}
+        
+button:active {
+    color:#BBBBBB;
+    border-color:#BBBBBB;
+}
+        

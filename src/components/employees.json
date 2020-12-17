@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Jake Peralta",
+      "role": "Detective",
+      "episodes": 145,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 2,
+      "name": "Rosa Diaz",
+      "role": "Detective",
+      "episodes": 145,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 3,
+      "name": "Terry Jeffords",
+      "role": "Lieutenant",
+      "episodes": 145,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 4,
+      "name": "Amy Santiago",
+      "role": "Sargeant",
+      "episodes": 145,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 5,
+      "name": "Charles Boyle",
+      "role": "Detective",
+      "episodes": 145,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 6,
+      "name": "Raymond Holt",
+      "role": "Captain",
+      "episodes": 145,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 7,
+      "name": "Hitchcock",
+      "role": "Detective",
+      "episodes": 144,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 8,
+      "name": "Scully",
+      "role": "Detective",
+      "episodes": 144,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 9,
+      "name": "Gina Linetti",
+      "role": "Assistant",
+      "episodes": 117,
+      "department": "Brooklyn 99"
+    },
+    {
+      "id": 10,
+      "name": "Madeline Wuntch",
+      "role": "Deputy Chief",
+      "episodes": 12,
+      "department": "Bureau"
+    }
+  
+  ]
